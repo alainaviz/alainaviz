@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Bem-vindo(a) ao perfil do Alain Aviz 😁
+# Bem-vindo ao perfil do Alain Aviz 😁
 
  <div>
    <a href="https://github.com/alainaviz">
